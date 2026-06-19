@@ -1,0 +1,12 @@
+{
+  "alpha-web-any": {
+    "version": "0.1.0",
+    "mirrors": [
+      "https://github.com/hyperosa-studio/game1-mono/releases/download/v0.1.0/game1-0.1.0-alpha-web-any.zip"
+    ],
+    "bytes": 61,
+    "sha256": "61eb9339918344dcf325a0fdf1f3a6e93addec481cfd9123042a3dca5c9af856",
+    "publishedAt": "2026-06-19T16:14:02.229Z",
+    "releaseNotes": "Initial published manifest. Binary not yet uploaded — manifest is live for updater-fetch verification only."
+  }
+}
