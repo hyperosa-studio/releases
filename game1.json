@@ -1,38 +1,38 @@
 {
   "stable-android-universal": {
-    "version": "0.1.43",
+    "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.43-stable-android-universal.apk"
+      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-android-universal.apk"
     ],
-    "bytes": 122901814,
-    "sha256": "63d34ede254512bafa6a62b9858be7b8facb9a0d08914375da4ad19c981a63fa",
-    "publishedAt": "2026-11-04T22:07:00.054Z"
+    "bytes": 151440996,
+    "sha256": "8a3c17312800e2bb99320cba86ddc611d8bcbf570b6f61d063da4baba0f7e899",
+    "publishedAt": "2026-11-07T03:29:58.932Z"
   },
   "stable-html-any": {
-    "version": "0.1.43",
+    "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.43-stable-html-any.zip"
+      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-html-any.zip"
     ],
-    "bytes": 224333262,
-    "sha256": "63fcc2780371c7b0185edde9821de23b8c9701eb40b642cd3dba7c594bac8d80",
-    "publishedAt": "2026-11-04T22:07:00.054Z"
+    "bytes": 254156908,
+    "sha256": "f54c8586694cdbd41290ccb347bcf4f6aef956f92edfcfa5bdb0f70dcda0e81e",
+    "publishedAt": "2026-11-07T03:29:58.932Z"
   },
   "stable-linux-x64": {
-    "version": "0.1.43",
+    "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.43-stable-linux-x64.AppImage"
+      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-linux-x64.AppImage"
     ],
-    "bytes": 239380984,
-    "sha256": "61825d9a95ab2c9d3190ba3ef7b7afbee876e3e273bf6039cae569c8e6d34697",
-    "publishedAt": "2026-11-04T22:07:00.054Z"
+    "bytes": 267921912,
+    "sha256": "b3e01e4698fc87c84b3c7b80e97a9f1522e19c810c5d1adcfa5d8db163e109cc",
+    "publishedAt": "2026-11-07T03:29:58.932Z"
   },
   "stable-windows-x64": {
-    "version": "0.1.43",
+    "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.43-stable-windows-x64.exe"
+      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-windows-x64.exe"
     ],
-    "bytes": 155649178,
-    "sha256": "0292ade94b16f75df5545f27c8165ce1eb2ec72615e57d318ebdc6d2e529db30",
-    "publishedAt": "2026-11-04T22:07:00.054Z"
+    "bytes": 183582062,
+    "sha256": "ad1ae8cace499df7a237571e0d0c68db8039e04b5edda74e9492455cd3dec2fc",
+    "publishedAt": "2026-11-07T03:29:58.932Z"
   }
 }
