@@ -2,37 +2,37 @@
   "stable-android-universal": {
     "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-android-universal.apk"
+      "https://hyperosa-studio.github.io/releases/game1.html"
     ],
     "bytes": 151440996,
     "sha256": "8a3c17312800e2bb99320cba86ddc611d8bcbf570b6f61d063da4baba0f7e899",
-    "publishedAt": "2026-11-07T03:29:58.932Z"
+    "publishedAt": "2026-11-09T23:09:34.622Z"
   },
   "stable-html-any": {
     "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-html-any.zip"
+      "https://hyperosa-studio.github.io/releases/game1.html"
     ],
     "bytes": 254156908,
     "sha256": "f54c8586694cdbd41290ccb347bcf4f6aef956f92edfcfa5bdb0f70dcda0e81e",
-    "publishedAt": "2026-11-07T03:29:58.932Z"
+    "publishedAt": "2026-11-09T23:09:34.622Z"
   },
   "stable-linux-x64": {
     "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-linux-x64.AppImage"
+      "https://hyperosa-studio.github.io/releases/game1.html"
     ],
     "bytes": 267921912,
     "sha256": "b3e01e4698fc87c84b3c7b80e97a9f1522e19c810c5d1adcfa5d8db163e109cc",
-    "publishedAt": "2026-11-07T03:29:58.932Z"
+    "publishedAt": "2026-11-09T23:09:34.622Z"
   },
   "stable-windows-x64": {
     "version": "0.1.44",
     "mirrors": [
-      "https://anotherside.hyperosa.com/public/downloads/hyperosa-anotherside-0.1.44-stable-windows-x64.exe"
+      "https://hyperosa-studio.github.io/releases/game1.html"
     ],
     "bytes": 183582062,
     "sha256": "ad1ae8cace499df7a237571e0d0c68db8039e04b5edda74e9492455cd3dec2fc",
-    "publishedAt": "2026-11-07T03:29:58.932Z"
+    "publishedAt": "2026-11-09T23:09:34.622Z"
   }
 }
